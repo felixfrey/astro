@@ -346,7 +346,7 @@ The resulting sitemap looks like this:
 ## Examples
 - The official Astro website uses Astro Sitemap to generate [its sitemap](https://astro.build/sitemap-index.xml).
 - The [integrations playground template](https://github.com/withastro/astro/tree/latest/examples/integrations-playground?on=github) comes with Astro Sitemap installed. Try adding a route and building the project!
-- [Browse projects with Astro Sitemap on GitHub](https://github.com/search?q=%22@astrojs/sitemap%22+filename:package.json&type=Code) for more examples! 
+- [Browse projects with Astro Sitemap on GitHub](https://github.com/search?q=%22%40astrojs%2Fsitemap%22%3A+path%3Apackage.json&type=code) for more examples! 
 
 ## Troubleshooting
 
